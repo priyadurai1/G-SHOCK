@@ -1,0 +1,179 @@
+#ms{
+    margin-left: 350px;
+}
+div ul li{
+  list-style-type: none;
+  display: inline-block;
+   margin-left: 37px;
+  color:cornsilk;
+  }
+input{
+  background-color: rgb(12, 11, 11);
+  font-size: medium;
+  color:cornsilk;
+  }
+#h{
+   font-size: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  #para
+  {
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+  }
+  #wd
+  {
+    padding-top: 50px;
+    line-height: 50px;
+  }
+  
+  #fw
+  {
+      background-image: url(../watches/13.png);
+      background-size: 100% 100%;
+    border-radius: 5px;
+    margin-left: 200px;
+    padding-top: 50px;
+    
+  }
+  #sw
+  {
+    background-image: url(../watches/sw.png);
+    background-size: 100% 100%;
+    border-radius: 5px;
+    margin-left: 527px;
+    margin-top: -520px;
+  }
+  #tw
+  {
+    background-image: url(../watches/tr.png);
+    background-size: 100% 100%;
+    border-radius: 5px;
+    margin-left: 870px;
+    margin-top: -522px;
+  }
+  .wf 
+  {
+    margin-left: 200px;
+    color: white;
+    text-align: center;
+  }
+  .ws
+  {
+    margin-left: 528px;
+    color: white;
+    text-align: center;
+  }
+  .wt
+  {
+    margin-left:870px;
+    color: white;
+    text-align: center;
+  }
+  #bs
+  {
+  background-color:white;
+  
+  }
+  #bs h2
+  {
+  font-size:60px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  }
+  #hhd
+  {
+      background-image: url(../watches/bbj.jpg);
+      background-size: cover;
+  }
+  #hd
+  {
+  margin-right: 500px;
+  background-image: url(../watches/jm.jpg);
+  background-size: 100% 100%;
+  }
+  #hdd
+  {
+  margin-left: 450px;
+  margin-top: -207px;
+  
+  background-image: url(../watches/mt.jpg);
+  background-size: 100% 100%;
+  }
+  #foot 
+  {
+      padding: 20px;
+  }
+  #foot table
+  {
+    color:white;
+    padding: 10px;
+    line-height: 40px;
+
+  }
+  #g
+  {
+      margin-top: 20px;
+  }
+  p input
+  {
+      background-color: white;
+      color:black;
+      font-size: small;
+     width: 70%;
+     height: 45px;
+     padding:5px;
+     box-sizing: border-box;
+  }
+   
+  p input:focus
+  {
+      background-color: cornflowerblue;
+  }
+  
+  #sp
+  {
+    padding-top: 8px;
+  }
+  .n1
+  {
+    height: 40%;
+    width: 13%;
+    margin-right: 810px;
+  }
+  .n2
+  {
+    
+    height: 40%;
+    width: 13%;
+    margin-left: -330px;
+    margin-top: -390px;
+  }
+  .n3
+  {
+    height: 40%;
+    width: 13%;
+    margin-left: 640px;
+    margin-top: -389px;
+    margin-right: 470px;
+  }
+  .n4
+  {
+    height: 40%;
+    width: 13%;
+    margin-left: 908px;
+    margin-top: -389px;
+    margin-right: 370px;
+  }
+  div table{
+      margin-left: 40px;
+      padding: 10px;
+     
+  }
+  #ps
+  {
+    background-image: url(../watches/13.png);
+  }
+  
